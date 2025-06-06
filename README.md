@@ -18,7 +18,7 @@ A data‑driven application that analyzes historical gym attendance data to reco
 * **Visualization:** Generates interactive plots showing optimal visit windows.
 * **Outcome:** Achieved a H1 in my Leaving Cert project; now available as an open‑source prototype.
 
-### 2. Personal Website (maths‑in‑ohio)
+### 2. Educational (Hackaton) Website (maths‑in‑ohio)
 
 **Tech:** HTML, CSS, JavaScript, Altervista hosting
 
@@ -26,7 +26,7 @@ A responsive educational platform designed to make basic arithmetic engaging for
 
 * **Custom Design:** Tailored layout and styling for clear readability.
 * **Interactive Exercises:** JavaScript‑powered quizzes for addition, subtraction, multiplication, division.
-* **Deployment:** Hosted on Altervista with FTP workflow and automated updates.
+* **Deployment:** Locally.
 
 ### 3. Collaborative Coding Project (programming‑project‑group‑10)
 
