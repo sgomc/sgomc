@@ -63,7 +63,7 @@ A team‑based software development exercise in which we:
 
 * **GitHub:** [github.com/sgomc](https://github.com/sgomc)
 * **LinkedIn:** [Maccollins Obijiaku](https://www.linkedin.com/in/maccollins-obijiaku-47b473315)
-* **Email:** ([your.email@example.com](maccobii4@gmail.com))
+* **Email:** ([maccobii4@gmail.com])
 
 Feel free to open issues, suggest enhancements, or collaborate on any project. Thanks for visiting!
 
