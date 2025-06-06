@@ -37,54 +37,59 @@ A team‑based software development exercise in which we:
 * **Designed** a modular Java application (e.g., a tournament scheduler).
 * **Managed** version control and pull requests using GitHub.
 * **Practiced** agile ceremonies with regular stand‑ups and retrospectives.
-### 4 🌐 Arcane: Front-End Showcase with Elementor
-Overview:
+### 4. 🌐 Arcane: Front-End Showcase with Elementor
+
+**Overview:**
 Arcane is a portfolio website built on WordPress using the Elementor page-builder plugin to demonstrate modern front-end design and deployment workflows. It highlights your ability to craft visually appealing, responsive sites and to manage a live hosting environment end-to-end.
 
-🔑 Core Features
-Elementor-Powered Layouts
-Clean, customizable sections built entirely with Elementor’s drag-and-drop interface, showing off skills in layout composition, typography, and responsive breakpoints.
+---
 
-Custom Theming & Styling
-Additional CSS tweaks and Elementor theme overrides to tailor the site’s look beyond default templates—demonstrating mastery of both the tool and underlying HTML/CSS.
+#### 🔑 Core Features
 
-Live Hosting & Deployment
-Hosted on Altervista; covers the full cycle of deploying WordPress, configuring DNS/FTP, and maintaining updates and backups in a production environment.
+* **Elementor-Powered Layouts**
+  Clean, customizable sections built entirely with Elementor’s drag-and-drop interface, showing off skills in layout composition, typography, and responsive breakpoints.
 
-Showcase Sections
+* **Custom Theming & Styling**
+  Additional CSS tweaks and Elementor theme overrides to tailor the site’s look beyond default templates—demonstrating mastery of both the tool and underlying HTML/CSS.
 
-Hero Banner with call-to-action
+* **Live Hosting & Deployment**
+  Hosted on Altervista; covers the full cycle of deploying WordPress, configuring DNS/FTP, and maintaining updates and backups in a production environment.
 
-Project Galleries featuring screenshots and live links
+* **Showcase Sections**
 
-About & Contact forms styled with Elementor widgets
+  * **Hero Banner** with call-to-action
+  * **Project Galleries** featuring screenshots and live links
+  * **About & Contact** forms styled with Elementor widgets
 
-🛠️ Technologies & Tools
-CMS & Builder: WordPress, Elementor Pro
+---
 
-Markup & Styling: HTML5, CSS3 (custom overrides)
+#### 🛠️ Technologies & Tools
 
-Hosting: Altervista (FTP upload, site backups)
+* **CMS & Builder:** WordPress, Elementor Pro
+* **Markup & Styling:** HTML5, CSS3 (custom overrides)
+* **Hosting:** Altervista (FTP upload, site backups)
+* **Graphics:** Adobe XD → SVG exports, optimized via SVGOMG
 
-Graphics: Adobe XD → SVG exports, optimized via SVGOMG
+---
 
-🎯 Purpose & Impact
-Arcane isn’t just a demo site—it’s a proof of competence in:
+#### 🎯 Purpose & Impact
 
-Rapid Prototyping: Leveraging Elementor to spin up professional layouts in minutes.
+Arcane isn’t just a demo site—it’s a **proof of competence** in:
 
-Design Consistency: Applying global styles, typography settings, and color schemes across pages.
+1. **Rapid Prototyping:** Leveraging Elementor to spin up professional layouts in minutes.
+2. **Design Consistency:** Applying global styles, typography settings, and color schemes across pages.
+3. **Responsive Best Practices:** Ensuring pixel-perfect rendering on desktop, tablet, and mobile breakpoints.
+4. **Live Environment Management:** Handling WordPress installations, plugin updates, and routine maintenance on a public host.
 
-Responsive Best Practices: Ensuring pixel-perfect rendering on desktop, tablet, and mobile breakpoints.
+---
 
-Live Environment Management: Handling WordPress installations, plugin updates, and routine maintenance on a public host.
+#### 🔗 Live Demo & Code
 
-🔗 Live Demo & Code
-Live Site: https://arcane.altervista.org/
+* **Live Site:** [https://arcane.altervista.org/](https://arcane.altervista.org/)
+* **Screenshot Gallery:** (add link or folder in your portfolio)
+* **Notes:** While the codebase is managed through Elementor’s exports and custom CSS files, I can provide detailed style snippets or cloned theme files on request.
 
-Screenshot Gallery: (add link or folder in your portfolio)
 
-Notes: While the codebase is managed through Elementor’s exports and custom CSS files, I can provide detailed style snippets or cloned theme files on request.
 
 ## 🛠️ Technical Skills & Tools
 
