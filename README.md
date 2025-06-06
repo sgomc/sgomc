@@ -86,7 +86,7 @@ Arcane isn’t just a demo site—it’s a **proof of competence** in:
 #### 🔗 Live Demo & Code
 
 * **Live Site:** [https://arcane.altervista.org/](https://arcane.altervista.org/)
-* **Screenshot Gallery:** (add link or folder in your portfolio)
+
 * **Notes:** While the codebase is managed through Elementor’s exports and custom CSS files, I can provide detailed style snippets or cloned theme files on request.
 
 
