@@ -119,9 +119,6 @@ Arcane isn’t just a demo site—it’s a **proof of competence** in:
 
 Feel free to open issues, suggest enhancements, or collaborate on any project. Thanks for visiting!
 
-<div align = "center">
-  ![snake gif](https://github.com/sgomc/sgomc/blob/output/github-snake-dark.svg)
-</div>
 
 ![snake gif](https://github.com/sgomc/sgomc/blob/output/github-snake-dark.svg)
   
