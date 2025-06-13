@@ -123,6 +123,6 @@ Feel free to open issues, suggest enhancements, or collaborate on any project. T
   ![snake gif](https://github.com/sgomc/sgomc/blob/output/github-snake-dark.svg)
 </div>
 
-
+![snake gif](https://github.com/sgomc/sgomc/blob/output/github-snake-dark.svg)
   
 
