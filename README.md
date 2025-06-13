@@ -120,7 +120,7 @@ Arcane isn’t just a demo site—it’s a **proof of competence** in:
 Feel free to open issues, suggest enhancements, or collaborate on any project. Thanks for visiting!
 
 
-- name: generate-snake-game-from-github-contribution-grid
-  uses: Platane/snk@v3.3.0
+![snake gif](https://github.com/sgomc/sgomc/blob/output/github-snake-dark.svg)
+
   
 
