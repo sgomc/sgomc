@@ -27,6 +27,7 @@ A responsive educational platform designed to make basic arithmetic engaging for
 * **Custom Design:** Tailored layout and styling for clear readability.
 * **Interactive Exercises:** JavaScript‑powered quizzes for addition, subtraction, multiplication, division.
 * **Deployment:** Locally.
+* **https://sgomc.github.io/Maths-in-Ohio/Main.html  hosted here
 
 ### 3. Collaborative Coding Project (programming‑project‑group‑10)
 
