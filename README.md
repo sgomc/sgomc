@@ -42,24 +42,32 @@ A team‑based software development exercise in which we:
 
 **Overview:**
 Arcane is a portfolio website built on WordPress using the Elementor page-builder plugin to demonstrate modern front-end design and deployment workflows. It highlights your ability to craft visually appealing, responsive sites and to manage a live hosting environment end-to-end.
-Project Title: AI-Powered CV Parser & Resume Builder
-Project Description
+### Project Title: AI-Powered CV Parser & Resume Builder
+
+#### Project Description
+
 This project is a full-stack web application designed to automatically parse and structure data from a CV document using a self-hosted AI model. Users can upload a PDF or image of their resume, and the application's AI backend intelligently extracts key information—such as personal details, work experience, education, and skills—into a structured JSON format. This data is then used to dynamically populate and render various professional resume templates, which can be downloaded as a new, clean PDF or DOCX file.
-The core challenge of this project was to build a robust data extraction pipeline on resource-constrained hardware (a dual-core Celeron server with 4GB RAM). This was achieved by moving away from expensive, monolithic cloud AI APIs and instead using a locally-hosted, open-source Large Language Model (gemma:2b) managed by Ollama.
+
+The core challenge of this project was to build a robust data extraction pipeline on resource-constrained hardware (a dual-core Celeron server with 4GB RAM). This was achieved by moving away from expensive, monolithic cloud AI APIs and instead using a locally-hosted, open-source Large Language Model (`gemma:2b`) managed by Ollama.
+
 The backend orchestrates a complex, multi-step "intelligent slicing" algorithm. It first uses Tesseract for OCR, then programmatically isolates logical sections of the CV. Each section is then passed to the local AI with a series of highly-specific, engineered prompts to extract and structure the data. This modular, "prime-per-section" approach maximizes the accuracy of the smaller AI model while efficiently managing the server's limited CPU and memory resources.
-Key Features
-AI-Powered CV Parsing: Leverages a self-hosted gemma:2b model via Ollama to extract structured data from resume images.
-Dynamic Template Rendering: Uses React to dynamically render the extracted CV data into multiple, professionally designed resume templates.
-Asynchronous Job Processing: The backend is built with a robust, asynchronous polling architecture to handle the long-running AI analysis without timing out the client.
-PDF & DOCX Export: Allows users to download their newly formatted resume using jsPDF and html-to-docx.
-Full-Stack Self-Hosted Solution: The entire application, from the web server to the AI, is designed to run on a single, low-power machine, ensuring data privacy and zero operational cost.
-Technology Stack
-Backend: Java (OpenJDK), Simple HttpServer, systemd
-AI: Ollama, gemma:2b, Tesseract (via Tess4J)
-Database: MariaDB
-Frontend: React, TypeScript, Vite, Tailwind CSS
-Web Server / Proxy: Nginx
-OS: Ubuntu Server
+
+#### Key Features
+
+*   **AI-Powered CV Parsing:** Leverages a self-hosted `gemma:2b` model via Ollama to extract structured data from resume images.
+*   **Dynamic Template Rendering:** Uses React to dynamically render the extracted CV data into multiple, professionally designed resume templates.
+*   **Asynchronous Job Processing:** The backend is built with a robust, asynchronous polling architecture to handle the long-running AI analysis without timing out the client.
+*   **PDF & DOCX Export:** Allows users to download their newly formatted resume using `jsPDF` and `html-to-docx`.
+*   **Full-Stack Self-Hosted Solution:** The entire application, from the web server to the AI, is designed to run on a single, low-power machine, ensuring data privacy and zero operational cost.
+
+#### Technology Stack
+
+*   **Backend:** Java (OpenJDK), Simple `HttpServer`, `systemd`
+*   **AI:** Ollama, `gemma:2b`, Tesseract (via Tess4J)
+*   **Database:** MariaDB
+*   **Frontend:** React, TypeScript, Vite, Tailwind CSS
+*   **Web Server / Proxy:** Nginx
+*   **OS:** Ubuntu Server
 ---
 
 #### 🔑 Core Features
