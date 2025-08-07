@@ -43,7 +43,7 @@ A team‑based software development exercise in which we:
 **Overview:**
 Arcane is a portfolio website built on WordPress using the Elementor page-builder plugin to demonstrate modern front-end design and deployment workflows. It highlights your ability to craft visually appealing, responsive sites and to manage a live hosting environment end-to-end.
 
-###5. Project Title: AI-Powered CV Parser & Resume Builder
+### 5. Project Title: AI-Powered CV Parser & Resume Builder
 
 #### Project Description
 
